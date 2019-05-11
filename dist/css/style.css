@@ -1,0 +1,72 @@
+
+
+body {
+	margin-left: 20px;
+	margin-top:20px;
+	font-family: Helvetica;
+	font-size: 20px;
+/*	font-family: 'IBM Plex Sans', sans-serif;
+*/	font-family: 'IBM Plex Mono', monospace;
+}
+
+button {
+
+	font-family: 'IBM Plex Mono', monospace, white;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	width: 100px;
+}
+
+label {
+	font-size: 30px;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+
+#searchBox{
+	width: 500px;
+	height: 30px;
+
+}
+
+form {
+	padding-top:10px;
+	padding-left:10px;
+}
+
+#searchForm input {
+	font-size: 30px;
+	font-family: 'IBM Plex Mono', monospace;
+	background-color: black;
+	color: white;
+
+}
+
+input[type=text]:focus {
+  background-color: black;
+}
+
+#imageAndTextContainer {
+	width:100px;
+	display: inline-block;
+	padding: 20px;
+}
+
+#imageAndTextContainer img {
+	width:100px;
+}
+
+#imageAndTextContainer div {
+	text-align: center;
+	font-size: 14px;
+	font-family: 'IBM Plex Mono', monospace;
+
+
+}
+
+
