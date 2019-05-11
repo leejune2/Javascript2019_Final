@@ -1,7 +1,7 @@
 # Javascript2019_final
 
-THIS IS NOT LIKE YOUR AVERAGE IMAGE SEARCH ENGINE
+This is not like your average image search engine. 
 
-FOR EVERY WORD YOU SEARCH, YOU WILL GET A RANGE OF PHOTOS THAT REFLECT THE DESCRIPTIONS OF RELATED NEWS ARTICLES. 
+For every word you search, you will get a range of photos that reflect the descriptions of related news articles. 
 
-PLEASE DOWNLOAD THE FILES, RUN NPM INSTALL TO RUN THE PROJECT LOCALLY.
+Please download the files, run npm install to run the project locally.
